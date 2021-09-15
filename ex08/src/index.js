@@ -2,9 +2,7 @@ function main(numOne, numTwo) {
   // Only change code below this line
    var numOne;
    var numTwo;
-   
-
-   sum = numOne + numTwo;
+   var sum = numOne + numTwo;
 
  // Only change code above this line
    return sum;

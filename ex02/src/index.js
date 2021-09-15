@@ -1,4 +1,4 @@
-function main () {
+function main() {
 // Komentar
 /* Ovo je drugi 
 komentar
